@@ -71,7 +71,7 @@ public class BankAccount{
                 break;
 
             default:
-                out.println("Hi " + getOwnerName() + ". Your Balance is  " + getBalance());
+                out.println("Hi " + getOwnerName d() + ". Your Balance is  " + getBalance());
                 break;
         }
     }
